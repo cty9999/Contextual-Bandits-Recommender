@@ -1,1 +1,3 @@
-# -Contextual-Bandits-Recommender
+# Contextual-Bandits-Recommender
+
+Implementing LinUCB and HybridLinUCB in Python.
